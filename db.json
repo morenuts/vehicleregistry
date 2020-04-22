@@ -1,0 +1,50 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "mark": "Opel",
+      "model": "Vectra",
+      "licensePlate": "AB12343",
+      "color": "Grey",
+      "vehicleOwnersId": "3"
+  },
+  {
+      "id": "2",
+      "mark": "Volkswagen",
+      "model": "Bugatti Chiron",
+      "licensePlate": "UX13444",
+      "color": "Black",
+      "vehicleOwnersId": "2"
+  
+  },
+  {
+      "id": "3",
+      "mark": "Skoda",
+      "model": "Octavia",
+      "licensePlate": "CL62392",
+      "color": "Blue",
+      "vehicleOwnersId": "1"
+  
+  }
+  ],
+  
+  "vehicleOwners": [
+    {
+      "id":"1",
+      "firstName": "Hans",
+      "lastName": "Petersen",
+      "age": "47"
+    },
+    {
+      "id":"2",
+      "firstName": "Laura",
+      "lastName": "Lemming",
+      "age": "30"
+    },
+    { "id":"3",
+      "firstName": "Emmert",
+      "lastName": "Rainbow",
+      "age": "23"
+    }
+  ]
+}
