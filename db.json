@@ -1,28 +1,28 @@
 {
   "vehicles": [
     {
-      "id": "1",
       "mark": "Opel",
       "model": "Vectra",
       "licensePlate": "AB12343",
       "color": "Grey",
+      "id": "1",
       "vehicleOwnersId": "3"
   },
   {
-      "id": "2",
       "mark": "Volkswagen",
       "model": "Bugatti Chiron",
       "licensePlate": "UX13444",
       "color": "Black",
+      "id": "2",
       "vehicleOwnersId": "2"
   
   },
   {
-      "id": "3",
       "mark": "Skoda",
       "model": "Octavia",
       "licensePlate": "CL62392",
       "color": "Blue",
+      "id": "3",
       "vehicleOwnersId": "1"
   
   }
